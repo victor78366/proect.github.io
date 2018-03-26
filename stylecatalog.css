@@ -1,0 +1,88 @@
+body {
+	background-color:  #CFAE8D ;
+	background-image: url(b/lex.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100%;
+    -webkit-background-size: 100%;
+	background-size: 100%;
+	background-attachment: "fixed" ; topmargin ="0"﻿;
+    position: relative;	
+}
+#main{
+	background-color: grey;
+	width: 70%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 15%;
+}
+#main img{
+	width:100%;
+	height: 400px;
+	opacity: 0.9;
+}
+#menu1 {
+	background-color: black;
+	width:100%;
+	height:40px;
+	opacity: 1;
+}
+#menu1 a {
+	color:Grey;
+	text-decoration:none;
+	padding-right:10px;
+	padding-left:10px;
+	position:relative;
+	font-size: 20px;
+	
+	top:10px;
+	left: 30px;
+}
+
+#menu1 a:hover{
+	color: white ;
+    
+    	
+    
+}
+#menu1 img{
+	
+}
+#continut {
+	background-color:black;
+	width:100%;
+	top: 10px;
+	height:1600px;
+	color:grey;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+#menu img:hover {
+	opacity:0.5;
+}
+#continut img: {
+	opacity:1;
+	
+    	
+}
+#continut img:hover {
+	opacity:1;
+    	
+}
+#continut a{
+	color:Grey;
+	text-decoration:none;
+	padding-right:10px;
+	padding-left:10px;
+	position:relative;
+	font-size: 20px;
+	
+	top:10px;
+	left: 30px;
+}
